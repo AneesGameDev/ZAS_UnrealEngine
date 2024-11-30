@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "119009208356",
+    "firebase_url": "https://image-upload-c508e-default-rtdb.firebaseio.com",
+    "project_id": "image-upload-c508e",
+    "storage_bucket": "image-upload-c508e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119009208356:android:b3685cdea5e3582b8dd0b1",
+        "android_client_info": {
+          "package_name": "com.vu.zas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0_XSKfdnapvot9uyJVQyF0wiobOitRuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
